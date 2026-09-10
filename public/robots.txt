@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://carroattrezziravenna24h.it/sitemap.xml

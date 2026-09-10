@@ -1,3 +1,5 @@
-# carroattrezzipiacenzamg.it
+# carroattrezziravenna24h.it
 
-Sito statico Next.js per servizio di carroattrezzi a Piacenza.
+Sito indipendente: Ravenna. Identità ravenna signature.
+
+Next.js static export, pubblicato tramite GitHub Actions su Pages.
