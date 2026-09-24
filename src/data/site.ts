@@ -2,12 +2,12 @@ export const site = {
   domain: 'carroattrezziravenna24h.it',
   template: 'ravenna-signature',
   description: 'Carroattrezzi a Ravenna e soccorso stradale 24 ore: recupero auto, traino, assistenza moto e trasporto veicoli in città e provincia.',
-  tel: 'mailto:assistenza@carroattrezziravenna24h.it',
+  tel: '+390544700102',
   city: 'Ravenna',
   name: 'Carroattrezzi Ravenna 24H',
   address: 'Ravenna e provincia',
   title: 'Carroattrezzi Ravenna 24H | Soccorso stradale',
-  phone: 'Richiedi assistenza',
+  phone: '0544 700102',
   email: 'assistenza@carroattrezziravenna24h.it',
 } as const
 
