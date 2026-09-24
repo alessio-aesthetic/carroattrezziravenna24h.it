@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Carroattrezzi Ravenna">
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 57V19c0-7 5-12 13-12h12c12 0 18 6 18 15S49 39 37 39H27l21 18c5 4 11 3 14-1l2-4" stroke="#F2A900" stroke-width="6"/>
+    <path d="M12 46h6m0-17v-7c0-4 3-7 7-7h5m13 27 7 6" stroke="#FFF8EB" stroke-width="2" stroke-dasharray="4 4"/>
+  </g>
+</svg>
