@@ -5,7 +5,7 @@ import '@/styles/tailwind.css'
 import '@/styles/premium.css'
 const display = DM_Serif_Display({ subsets: ['latin'], display: 'swap', variable: '--font-display', weight: '400', style: ['normal','italic'] })
 const body = Manrope({ subsets: ['latin'], display: 'swap', variable: '--font-body' })
-export const viewport: Viewport = { themeColor: '#0d1926' }
+export const viewport: Viewport = { themeColor: '#151b20' }
 export const metadata: Metadata = {
  metadataBase: new URL(`https://${site.domain}`),
  title: { default: site.title, template: `%s | ${site.name}` }, description: site.description,
@@ -14,3 +14,4 @@ export const metadata: Metadata = {
  robots: { index: true, follow: true },
 }
 export default function RootLayout({ children }: { children: React.ReactNode }) { return <html lang="it" className={`${display.variable} ${body.variable}`}><body>{children}</body></html> }
+
