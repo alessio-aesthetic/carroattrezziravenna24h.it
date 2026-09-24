@@ -9,7 +9,7 @@ export const viewport: Viewport = { themeColor: '#151b20' }
 export const metadata: Metadata = {
  metadataBase: new URL(`https://${site.domain}`),
  title: { default: site.title, template: `%s | ${site.name}` }, description: site.description,
- alternates: { canonical: '/' }, icons: { icon: '/favicon-ravenna-24h.svg' },
+ alternates: { canonical: '/' }, icons: { icon: '/favicon-ravenna-generated.png' },
  openGraph: { title: site.title, description: site.description, url: `https://${site.domain}/`, siteName: site.name, locale: 'it_IT', type: 'website' },
  robots: { index: true, follow: true },
 }
