@@ -1,16 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 110" role="img" aria-labelledby="title desc">
-<title id="title">Carroattrezzi Ravenna 24H</title><desc id="desc">Marchio con carroattrezzi stilizzato e nome del servizio a Ravenna</desc>
-<defs><linearGradient id="amber" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#ffd44d"/><stop offset="1" stop-color="#ff9e18"/></linearGradient></defs>
-<rect x="3" y="4" width="102" height="102" rx="22" fill="#18232c"/>
-<path d="M19 73h65l8-8H54l-8-23H28l-9 31Z" fill="url(#amber)"/>
-<path d="M26 66h17l-5-16h-6l-6 16Z" fill="#fff5db"/>
-<path d="M48 43h7l9 25h-9l-7-25Z" fill="#ffb21a"/>
-<path d="M55 40c5-7 10-10 16-9v8c-5 1-7 3-10 8" fill="none" stroke="#ffb21a" stroke-width="4" stroke-linecap="round"/>
-<path d="M75 40v13c0 5-3 8-7 8" fill="none" stroke="#f8f5eb" stroke-width="3" stroke-linecap="round"/>
-<path d="M17 79h77" stroke="#f8f5eb" stroke-width="3" stroke-linecap="round"/>
-<circle cx="34" cy="79" r="6" fill="#f8f5eb"/><circle cx="78" cy="79" r="6" fill="#f8f5eb"/><circle cx="34" cy="79" r="2.5" fill="#18232c"/><circle cx="78" cy="79" r="2.5" fill="#18232c"/>
-<path d="M23 25h61" stroke="#ffb21a" stroke-width="3" stroke-linecap="round"/><path d="M23 32h36" stroke="#fff5db" stroke-opacity=".65" stroke-width="2" stroke-linecap="round"/>
-<text x="126" y="48" fill="#fff8e9" font-family="Arial,sans-serif" font-size="25" font-weight="900" letter-spacing="1.8">CARROATTREZZI</text>
-<text x="126" y="82" fill="#ffb21a" font-family="Arial,sans-serif" font-size="24" font-weight="900" letter-spacing="3">RAVENNA</text>
-<rect x="350" y="61" width="70" height="31" rx="15.5" fill="#ffb21a"/><text x="385" y="82" text-anchor="middle" fill="#18232c" font-family="Arial,sans-serif" font-size="15" font-weight="900" letter-spacing="1">24H</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 112" role="img" aria-labelledby="title desc">
+  <title id="title">Carroattrezzi Ravenna 24 ore</title>
+  <desc id="desc">Segno originale ispirato a una strada che diventa un gancio di recupero, con il nome Carroattrezzi Ravenna</desc>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M17 89V31c0-11 8-19 20-19h24c19 0 29 9 29 24S80 61 61 61H43l35 29c8 7 20 6 26-2l5-7" stroke="#F2A900" stroke-width="10"/>
+    <path d="M17 72h8m0-27v-9c0-5 4-9 9-9h7m17 43 8 7" stroke="#FFF8EB" stroke-width="2.5" stroke-dasharray="7 6"/>
+    <path d="M95 78c5 4 12 4 17-1l5-6" stroke="#F2A900" stroke-width="6"/>
+  </g>
+  <text x="142" y="29" fill="#F2A900" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="3.1">SOCCORSO STRADALE</text>
+  <text x="140" y="65" fill="#FFF8EB" font-family="Arial,sans-serif" font-size="27" font-weight="900" letter-spacing="1.2">CARROATTREZZI</text>
+  <text x="142" y="94" fill="#FFF8EB" fill-opacity=".78" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="5">RAVENNA</text>
+  <path d="M343 82h70" stroke="#F2A900" stroke-width="2"/>
+  <text x="432" y="91" fill="#F2A900" font-family="Arial,sans-serif" font-size="23" font-weight="900" letter-spacing=".5">24H</text>
 </svg>
