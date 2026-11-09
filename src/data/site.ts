@@ -5,7 +5,6 @@ export const site = {
   tel: '+390544700102',
   city: 'Ravenna',
   name: 'Carroattrezzi Ravenna 24H',
-  address: 'Via Fossombrone, 8 - 48124 Ravenna RA',
   title: 'Carroattrezzi Ravenna 24H | Soccorso stradale',
   phone: '0544 700102',
   email: 'assistenza@carroattrezziravenna24h.it',
